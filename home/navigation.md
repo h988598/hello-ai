@@ -110,6 +110,7 @@
 | [行者AI](https://www.xingzheai.cn/) | 行者AI专注于人工智能在游戏领域的研究和应用，凭借自研算法推出游戏AI、内容审核、数据平台等产品。游戏AI应用于游戏智能匹配、AI自动化测试、玩家情感调节等多个方面，优化玩家游戏体验，提升用户留存率。 |
 | [Sticker Prompt Generator](https://www.howtoleverageai.com/midjourney-sticker-prompt-generator) | Sticker Prompt Generator贴纸提示生成器工具允许用户在一次单击中生成10个贴纸提示样式。它的设计用于t恤设计，艺术，表情符号，人物设计，NFT，漫画等。 |
 | [Civitai](https://civitai.com/) | Civitai是一个在线平台，人们可以很容易地分享和发现人工智能艺术创作的资源。用户可以上传和分享经过训练的模型，以生成特定风格的艺术，或者浏览和下载其他用户创建的模型。Civitai还为AI艺术家提供了一个充满活力和支持性的社区，用户可以在那里交流想法和分享他们的经验。 |
+| [Buzz Cut Filter](https://buzzcutai.org/) | 一个超好用的 AI 虚拟短发试戴网站！只需上传一张你的照片，选择短发风格，就能一键生成你的专属短发风格造型，多种短发风格任你挑选，操作简单零门槛，快来试试！ |
 
 ## AI聊天机器人
 
